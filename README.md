@@ -1,7 +1,5 @@
 ## Mallika Nayak
 
-# Mallika Nayak
-
 Senior backend and distributed systems engineer (ex-Microsoft, Walmart Labs, Morgan Stanley) now building production-grade AI systems.
 
 I work at the intersection of **distributed systems and applied AI** — focusing on making LLM-based systems reliable enough for real-world use. That includes evaluation, observability, failure handling, and system design beyond prototypes.
