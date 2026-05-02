@@ -83,8 +83,15 @@ Observability · Evaluation Systems · Backend Infrastructure Azure
 M.Tech — IIIT Bangalore
 
 ---
+Open to roles
 
+Senior / Staff roles in:
 
+Backend Engineering
+Distributed Systems
+AI / ML Platform Engineering
+
+I’m particularly interested in teams working on real-world AI systems where reliability and system design matter.
 
 
 
